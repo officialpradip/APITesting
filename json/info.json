@@ -1,0 +1,42 @@
+{
+  "person": [
+    {
+      "id": 1,
+      "name": "Pradip",
+      "occupation": "QA",
+      "company": "ZYX Company",
+      "skills": [
+        "Javascript",
+        "Python",
+        "Cypress",
+        "Selenium"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ram",
+      "occupation": "QA Automation",
+      "company": "ABC Company",
+      "skills": [
+        "Javascript",
+        "Cypress",
+        "Appium"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Krishna",
+      "occupation": "Software Engineer",
+      "company": "H Company",
+      "skills": [
+        "Python",
+        "Django",
+        "Django Rest Framework"
+      ]
+    },
+    {
+      "id": 4,
+      "occupation": "Senior Software Engineer"
+    }
+  ]
+}
